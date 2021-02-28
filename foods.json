@@ -1,0 +1,155 @@
+{
+ "Foods":[
+    {
+    "Food": "HawainPizza",
+    "Rating": "95%",
+    "price" : 900
+    },
+    {
+    "Food": "barbaquechicken",
+    "Rating": "88%",
+    "price" : 880
+    },
+    {
+    "Food": "chips and chicken",
+    "Rating": "92%",
+    "price": 150
+    },
+    {
+    "Food": "Rice and beans",
+    "Rating": "30%",
+    "price":40 
+    },
+    {
+    "Food": "Rice and meansmeat",
+    "Rating": "60%",
+    "price": 70
+    },
+    {
+    "Food": "chapati and ndengu",
+    "Rating": "80%",
+    "price":50
+    },
+    {
+    "Food": "Neapolitan Pizzaza",
+    "Rating": "96%",
+    "price" : 970
+        
+    
+    },
+    {
+    "Food": "CHikenrap",
+    "Rating": "96%",
+    "price" : 100
+        
+    
+    }
+    
+ ],
+ "isceream":[
+    {
+    "icescreems": "blubery",
+    "Rating": "96%",
+    "price" : 210
+        
+    
+    },
+    {
+    "icescreems": "Strawberry",
+    "Rating": "96%",
+    "price" : 193
+        
+    
+    },
+    {
+    "icescreems": "Apple",
+    "Rating": "70%",
+    "price" : 170
+        
+    
+    },
+    {
+    "icescreems": "Almond",
+    "Rating": "80%",
+    "price" : 190
+        
+    
+    },
+     {
+    "icescreems": "Bacon",
+    "Rating": "30%",
+    "price" : 200
+        
+    
+    },
+    {
+    "icescreems": "Blueberry",
+    "Rating": "93%",
+    "price" : 190
+        
+    
+    },
+    {
+    "icescreems": "Bluemoon",
+    "Rating": "100%",
+    "price" : 180
+        
+    
+    },
+    {
+    "icescreems": "BlueHeaven",
+    "Rating": "100%",
+    "price" : 180
+        
+    
+    }
+       
+    ],
+   
+ "Drink":[
+    {
+    "drinks": "fanterOrange",
+    "Rating": "100%",
+    "price" : 190
+        
+    
+    },
+    {
+    "drinks": "fanterblackcarent",
+    "Rating": "98%",
+    "price" : 80
+        
+    
+    },
+    {
+    "drinks": "sprite",
+    "Rating": "92%",
+    "price" : 70
+    },
+    {
+    "drinks": "moutaindew",
+    "Rating": "92%",
+    "price" : 80
+    },
+    {
+    "drinks": "COC",
+    "Rating": "80%",
+    "price" : 70
+    },
+    {
+    "drinks": "lukozed",
+    "Rating": "92%",
+    "price" : 130
+    },
+    {
+    "drinks": "Fantapinaple",
+    "Rating": "100%",
+    "price" : 84
+    },
+    {
+    "drinks": "Sundrop",
+    "Rating": "79%",
+    "price" : 60
+    }
+]
+}
